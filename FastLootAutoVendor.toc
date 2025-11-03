@@ -4,4 +4,5 @@
 ## Author: MIYANKO
 ## Version: 1.0.0
 
-FastLootAutoVendor.lua
+FastLoot.lua
+AutoVendor.lua
