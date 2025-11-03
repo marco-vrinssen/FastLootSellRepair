@@ -1,4 +1,4 @@
-# Loot Vendor
+# Fast Loot Auto Vendor
 
 World of Warcraft Retail addon that enables fast looting, automatically sells junk, and repairs gear.
 

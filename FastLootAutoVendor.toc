@@ -1,7 +1,7 @@
 ## Interface: 110200
-## Title: Loot Vendor
+## Title: Fast Loot Auto Vendor
 ## Notes: Fast looting, auto-sells junk, and repairs gear
 ## Author: MIYANKO
 ## Version: 1.0.0
 
-LootVendor.lua
+FastLootAutoVendor.lua
