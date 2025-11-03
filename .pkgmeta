@@ -1,6 +1,0 @@
-package-as: BentoLootSellRepair
-
-ignore:
-  - .gitignore
-  - .pkgmeta
-  - README.md
