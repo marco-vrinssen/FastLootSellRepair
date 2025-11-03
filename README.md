@@ -1,6 +1,6 @@
-# Fast Loot Auto Vendor
+# Fast Loot Sell Repair
 
-World of Warcraft Retail addon that enables fast looting, automatically sells junk, and repairs gear.
+World of Warcraft Retail addon that enables fast looting, automatically sells junk, and auto-repairs gear.
 
 ## Features
 

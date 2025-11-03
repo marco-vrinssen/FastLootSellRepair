@@ -1,0 +1,8 @@
+## Interface: 110200
+## Title: Fast Loot Sell Repair
+## Notes: Fast looting, auto-sells junk, and auto-repairs gear
+## Author: MIYANKO
+## Version: 1.0.0
+
+FastLoot.lua
+AutoVendor.lua
