@@ -1,7 +1,7 @@
 -- Makes looting instant with no delay when auto loot is enabled
 
 local lastTime = 0
-local delay = 0.025
+local delay = 0.1
 
 local function loot()
 	local autoLoot = GetCVarBool("autoLootDefault")
