@@ -1,15 +1,9 @@
 # Fast Loot Sell Repair
 
-World of Warcraft Retail addon that enables fast looting, automatically sells junk, and auto-repairs gear.
+World of Warcraft addon to enable instant looting, auto-sell junk, and auto-repair gear.
 
 ## Features
 
-- Enables instant auto-looting for faster item pickup
-- Automatically sells all junk items when interacting with vendors
-- Auto-repairs equipped gear using guild bank funds first, then personal gold
-- Works seamlessly in the background with no configuration needed
-
-## Compatibility
-
-- **Interface Version**: 11.2.0 (The War Within)
-- **Game Version**: World of Warcraft Retail
+- Enables instant auto-looting with zero delay
+- Sells all junk items at vendors
+- Repairs gear at vendors using guild bank first, then personal gold
